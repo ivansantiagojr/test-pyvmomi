@@ -1,5 +1,1 @@
-Para usar o programa, crie um ambiente virtual com ```bash
-pip install requirements.txt
-```. Depois use ```bash
-    python main.py -s '<endereço do host>' -u '<nome de usário>' -p '<senha>'
-```
+Para usar o programa, crie um ambiente virtual com ```python -m venv .venv``` e instale as bibliotecas necessárias com```pip install requirements.txt```. Depois use ```python main.py -s '<endereço do host>' -u '<nome de usário>' -p '<senha>'```
