@@ -1,5 +1,4 @@
 from pyVmomi import vim
-from pyVmomi import vim
 from pyVim.connect import SmartConnect, Disconnect
 import argparse
 import atexit
